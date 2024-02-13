@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Se crea login con dashcboard y crud de productos mediante laravel y uso de la libreria Tablar
+Se crea login con dashboard y crud de productos mediante laravel y uso de la libreria Tablar
 
 https://tablar.ebuz.xyz/docs/3.0/overview
